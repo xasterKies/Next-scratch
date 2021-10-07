@@ -1,2 +1,2 @@
 # Next-scratch
-Learning about Nextjs framwork back and forth
+Learning about Nextjs framework back and forth
